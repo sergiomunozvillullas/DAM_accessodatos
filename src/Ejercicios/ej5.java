@@ -23,7 +23,6 @@ public class ej5 {
 
         //creamos un array listando los archivos del direcorio
         File[] archivos = directorio.listFiles();
-        
         //si hay archivos
         if (archivos != null) {
             //recorremos el el array
